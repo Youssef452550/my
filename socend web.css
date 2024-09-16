@@ -68,13 +68,16 @@ text-decoration: none;
 }
 #try{
     margin: 350px;
-    display: flex;
     border-radius: 10px;
 }
 .ok{
     color: black;
     font-size: 60px;
     color: white;
+    text-align: center;
+}
+.red{
+    display: flex;
 }
 .red img{
 border-radius: 20px;
